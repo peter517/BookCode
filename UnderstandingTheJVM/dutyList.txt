@@ -1,0 +1,6 @@
+#Don't edit this file!
+#Sun Nov 13 17:17:03 CST 2011
+团支书=小强
+班长=小明
+teacher=Mr Wang
+学习委员=小红
